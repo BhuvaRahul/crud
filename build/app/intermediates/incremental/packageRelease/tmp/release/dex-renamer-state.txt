@@ -1,0 +1,4 @@
+#Mon Apr 08 20:44:03 IST 2024
+base.0=/Users/brijesh/Documents/GitHub/crud/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
